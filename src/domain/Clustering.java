@@ -1,6 +1,6 @@
-package presentation;
+package domain;
 
-// Jesus está acá :)
+// Jesús está acá :)
 
 public class Clustering {
     
